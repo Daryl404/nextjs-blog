@@ -17,7 +17,7 @@ import Layout from '../../components/layout';
             console.log(`script loaded correctly, window.FB has been populated`)
           }
         />
-        <img src="/images/profile.GIF" alt="Your Name" />
+        <img src="/images/profile1.jpg" alt="Your Name" />
         <h1>First Post</h1>
         <h2>
           <Link href="/">
